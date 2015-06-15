@@ -1,0 +1,26 @@
+body {
+	background: #999;
+	font-family: courier;
+}
+
+h1 {
+	color: yellow;
+}
+
+h2, h3 {
+	color: white;
+}
+
+a {
+	color: blue;
+}
+
+li {
+	color: aqua;
+}
+
+p {
+	background: black;
+	color: cyan;
+	padding: 10px;
+}
