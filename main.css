@@ -15,12 +15,23 @@ a {
 	color: blue;
 }
 
-li {
-	color: aqua;
-}
-
 p {
 	background: black;
 	color: cyan;
-	padding: 10px;
+}
+
+li {
+	color: lime;
+}
+
+.home {
+	color: yellow;
+}
+
+.facts {
+	color: white;
+}
+
+.me {
+	color: pink;
 }
