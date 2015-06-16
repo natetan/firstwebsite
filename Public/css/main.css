@@ -1,0 +1,45 @@
+body {
+	background: #999;
+	font-family: courier;
+}
+
+h1 {
+	color: yellow;
+}
+
+h2, h3 {
+	color: white;
+}
+
+a {
+	color: blue;
+}
+
+p {
+	background: black;
+	color: cyan;
+}
+
+li {
+	color: lime;
+}
+
+.home {
+	color: yellow;
+}
+
+.facts {
+	color: white;
+}
+
+.me {
+	color: pink;
+}
+
+.blog {
+	color: orange;
+}
+
+.main {
+	color: magenta;
+}

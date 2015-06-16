@@ -16,4 +16,6 @@ app.get('/zachy', function(req, res) {
     res.sendFile(path.join(__dirname + '/ZachFacts.html'));
 });
 
+app.use(express.static(__dirname + '/public'));
+
 app.listen(port);
