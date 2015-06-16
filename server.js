@@ -12,4 +12,8 @@ app.get('/about', function(req, res) {
     res.sendFile(path.join(__dirname + '/AboutMe.html'));
 });
 
+app.get('/zachy', function(req, res) {
+    res.sendFile(path.join(__dirname + '/ZachFacts.html'));
+});
+
 app.listen(port);
