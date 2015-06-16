@@ -1,11 +1,12 @@
 {
-  "name": "heroku-node",
-  "description": "Our sample Node to Heroku app",
+  "name": "yulong first app",
+  "description": "working on dat first app doe",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
+    "ejs": "~1.0.0",
     "express": "~4.9.8"
   }
 }
