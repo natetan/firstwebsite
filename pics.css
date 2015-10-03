@@ -1,0 +1,38 @@
+body {
+	font-family: "helvetica neue";
+	color: #666;
+}
+
+body .mainTitle {
+	font-weight: bold;
+	font-style: italic;
+	font-family: courier;
+}
+
+body .description {
+	padding-left:3%
+}
+
+body .info {
+	width: 31%;
+}
+
+body .picTitle {
+	font-family: verdana;
+	font-style: italic;
+	font-weight: bold;
+}
+
+img {
+	width: 200px;
+}
+
+.hide {
+	display: none;
+}
+
+.item {
+
+}
+
+
