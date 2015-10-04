@@ -1,6 +1,7 @@
 body {
 	font-family: "helvetica neue";
 	color: #666;
+	padding: 0 20%;
 }
 
 body .mainTitle {
@@ -29,10 +30,6 @@ img {
 
 .hide {
 	display: none;
-}
-
-.item {
-
 }
 
 
